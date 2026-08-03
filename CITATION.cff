@@ -9,7 +9,7 @@ abstract: >-
   Analysis scripts backing the SGOED Phase 1-2 manuscript and artifact tests. Self-contained Python, no external data.
 version: "0.1.0"
 date-released: "2026-08-03"
-doi: "10.5281/zenodo.20752981"
+doi: "10.5281/zenodo.2075xxxx"
 url: "https://github.com/dhammawatthumpra-coder/sgoed-analysis"
 license: CC-BY-4.0
 keywords:
