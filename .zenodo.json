@@ -1,0 +1,29 @@
+{
+  "access_right": "open",
+  "title": "SGOED Phase 1-2 analysis scripts",
+  "description": "Analysis scripts backing the SGOED Phase 1-2 manuscript and its artifact-test record. Self-contained Python (numpy/scipy/matplotlib), no external data. Script-to-section mapping in README.",
+  "creators": [
+    {
+      "name": "Chanpengpad, Sutipong",
+      "affiliation": "Independent Researcher, Chiang Rai, Thailand",
+      "orcid": "0009-0001-4069-8576"
+    }
+  ],
+  "upload_type": "software",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "SGOED",
+    "reproducibility",
+    "simulation",
+    "aggregation",
+    "matrix analysis"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.20752981",
+      "relation": "isSupplementTo"
+    }
+  ],
+  "language": "eng",
+  "prereserve_doi": true
+}

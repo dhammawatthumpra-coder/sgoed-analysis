@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use these materials in your research, please cite the preprint as below."
+authors:
+  - family-names: "Chanpengpad"
+    given-names: "Sutipong"
+    orcid: "https://orcid.org/0009-0001-4069-8576"
+title: "SGOED Phase 1-2 analysis scripts"
+abstract: >-
+  Analysis scripts backing the SGOED Phase 1-2 manuscript and artifact tests. Self-contained Python, no external data.
+version: "0.1.0"
+date-released: "2026-08-03"
+doi: "10.5281/zenodo.20752981"
+url: "https://github.com/dhammawatthumpra-coder"
+license: CC-BY-4.0
+keywords:
+  - SGOED
+  - reproducibility
+  - simulation
+  - aggregation
+  - matrix analysis
