@@ -2,7 +2,9 @@
 
 Analysis scripts backing the SGOED Phase 1–2 manuscript (record A) and its artifact-test record.
 
-**Suggested use:** push this folder to a GitHub repository and use the Zenodo–GitHub integration (release → automatic DOI minting) rather than uploading a zip directly. The script→paper mapping below mirrors the "Data & Code Availability" section of `SGOED_manuscript.md`.
+**Hosted at:** <https://github.com/dhammawatthumpra-coder/sgoed-analysis>
+
+> **Zenodo–GitHub integration:** to mint a DOI, enable the Zenodo GitHub hook for this repo (zenodo.org → GitHub → settings) and create a release. Zenodo will archive the tagged snapshot and assign a DOI; that DOI is the "software" record B to cite alongside record A. The script→paper mapping below mirrors the "Data & Code Availability" section of `SGOED_manuscript.md`.
 
 ## Script → paper section mapping
 

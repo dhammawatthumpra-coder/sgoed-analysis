@@ -10,7 +10,7 @@ abstract: >-
 version: "0.1.0"
 date-released: "2026-08-03"
 doi: "10.5281/zenodo.20752981"
-url: "https://github.com/dhammawatthumpra-coder"
+url: "https://github.com/dhammawatthumpra-coder/sgoed-analysis"
 license: CC-BY-4.0
 keywords:
   - SGOED
