@@ -20,8 +20,8 @@
   ],
   "related_identifiers": [
     {
-      "identifier": "10.5281/zenodo.2075xxxx",
-      "relation": "isSupplementTo"
+      "identifier": "10.5281/zenodo.[A-DOI]",
+      "relation": "isSupplementedBy"
     }
   ],
   "language": "eng",
