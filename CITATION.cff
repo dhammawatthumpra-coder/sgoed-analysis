@@ -11,6 +11,11 @@ version: "0.1.0"
 date-released: "2026-08-03"
 doi: "10.5281/zenodo.21786191"
 url: "https://github.com/dhammawatthumpra-coder/sgoed-analysis"
+related-identifiers:
+  - type: doi
+    value: "10.5281/zenodo.21786260"
+    relation: isSupplementedBy
+    description: "Main SGOED manuscript (record A)"
 license: CC-BY-4.0
 keywords:
   - SGOED
